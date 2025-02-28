@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.loudplay.android.app",
+      "sha256_cert_fingerprints":
+        ["FA:3A:26:EA:D0:14:2D:3F:C1:D4:52:88:DA:03:34:AF:F1:21:14:F8:88:75:E1:C4:33:05:66:B1:D8:51:2D:4D"]
+    }
+  }
+]
